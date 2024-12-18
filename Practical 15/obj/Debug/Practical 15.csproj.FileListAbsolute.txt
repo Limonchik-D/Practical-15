@@ -1,0 +1,7 @@
+C:\Users\Limon\source\repos\Practical 15\bin\Debug\Practical 15.exe.config
+C:\Users\Limon\source\repos\Practical 15\bin\Debug\Practical 15.exe
+C:\Users\Limon\source\repos\Practical 15\bin\Debug\Practical 15.pdb
+C:\Users\Limon\source\repos\Practical 15\obj\Debug\Practical 15.csproj.AssemblyReference.cache
+C:\Users\Limon\source\repos\Practical 15\obj\Debug\Practical 15.csproj.CoreCompileInputs.cache
+C:\Users\Limon\source\repos\Practical 15\obj\Debug\Practical 15.exe
+C:\Users\Limon\source\repos\Practical 15\obj\Debug\Practical 15.pdb
